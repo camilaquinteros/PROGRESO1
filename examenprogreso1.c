@@ -9,7 +9,6 @@ int encontrarMayor(int numeros[], int n) {
         }
     }
     return mayor;
-
 }
 
 // Creo la función principal
@@ -35,4 +34,5 @@ int main() {
 
     return 0;
 }
+
 
